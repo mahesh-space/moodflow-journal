@@ -1,0 +1,5 @@
+{
+  "name": "MoodFlow Journal",
+  "description": "An emotion-aware journaling app that adapts its UI based on the sentiment of your writing using Gemini AI.",
+  "requestFramePermissions": []
+}
